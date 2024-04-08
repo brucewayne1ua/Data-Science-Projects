@@ -1,0 +1,1 @@
+head(diabetes_data,3)
